@@ -7,13 +7,13 @@ This project demonstrates a simple 3D box model using Python classes, integrated
 ## 📊 Features
 - **Class Implementation:**  
   - Calculates surface area using the formula:  
-    \[
-    \text{Area} = (length \times width) + (width \times height) + (height \times length)
-    \]
-  - Calculates volume:  
-    \[
-    \text{Volume} = length \times width \times height
-    \]
+
+    - **Surface Area of a Cuboid:**  
+  Surface Area = 2 * (length * width + width * height + height * length)
+
+ - Calculates volume:  
+   - **Volume of a Cuboid:**  
+  Volume = length * width * height
   - Displays box dimensions
 - **Dataset Integration:**  
   Uses the Iris dataset to set box dimensions based on:  
