@@ -22,5 +22,5 @@ This project demonstrates a simple 3D box model using Python classes, integrated
   - `petal_length`
   - `petal_width`
 
-[View the Jupyter Notebook]()
+[View the Jupyter Notebook](https://github.com/Sarala23-datascience/Iris-Box-Model/blob/main/IrisBoxModel%20.ipynb)
 
